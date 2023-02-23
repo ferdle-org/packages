@@ -1,6 +1,6 @@
 {
-  "name": "@ferdlestier/packages",
-  "version": "1.0.0",
+  "name": "@ferdle-org/packages",
+  "version": "3.0.0",
   "description": "Creating new package for testing",
   "main": "index.js",
   "scripts": {

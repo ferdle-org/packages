@@ -5,3 +5,4 @@ pytz>=2011b
 jupyter; python_version >= '3.0'
 notebook>=4.4.1; python_version >'3.0'
 pandas >= 1.4
+pyyaml = 5.3.1
